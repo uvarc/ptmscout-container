@@ -27,4 +27,4 @@ pyquery==1.2.4
 waitress==0.8.2
 MySQL-python==1.2.5
 
-numpy==1.7.0
+numpy==1.21.0
